@@ -1,2 +1,2 @@
-# hash
+# H A S H
 HASH PASSWORD LIST
